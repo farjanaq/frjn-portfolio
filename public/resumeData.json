@@ -1,0 +1,147 @@
+{
+  "main": {
+    "name": "Farajana Khatib",
+    "occupation": "developer",
+    "description": "I eat, sleep and breathe Code",
+    "image": "profilepic.png",
+    "bio": "3+ years of experience in web development. passionate about working on front end development",
+    "contactmessage": "Want to get in touch with me ?",
+    "email": "frjnsktb@gmail.com",
+    "phone": "+91-8668226286",
+    "address": {
+      "street": "",
+      "city": "Pune",
+      "state": "Maharastra",
+      "zip": ""
+    },
+    "website": "",
+    "resumedownload": "Farajana_Resume.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/farajana/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/farjanaq",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Centre for Development of Advanced Computing (C-DAC)",
+        "degree": "PG DAC",
+        "graduated": "Jan 2019",
+        "description": ""
+      },
+      {
+        "school": "Shivaji University",
+        "degree": "Electronics and Telecommunications",
+        "graduated": "March 2018",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "IBM",
+        "title": "software developer",
+        "years": "Jan 2022 - present ",
+        "description": "currently working as a UI developer"
+      },
+      {
+        "company": "Dassault Systemes",
+        "title": "software developer",
+        "years": "Feb 2019 - Jan 2022",
+        "description": "worked as a UI developer"
+      },
+      {
+        "company": "Eduvance AR",
+        "title": "Intern",
+        "years": "May 2018",
+        "description": "Contributed in creating india's first AR app for learning engineering subjects such as Engineering Mechanics and Basics of Electronics using AUGMENTED REALITY. App is available on Play store as EduvanceAR"
+      }
+    ],
+    "skills": [
+      {
+        "name": "React Js",
+        "level": "80%"
+      },
+      
+      {
+        "name": "GIT",
+        "level": "80%"
+      },
+      {
+        "name": "UI development",
+        "level": "90%"
+      },
+      {
+        "name": "jQuery",
+        "level": "90%"
+      },
+      {
+        "name": "SQL",
+        "level": "85%"
+      },
+      {
+        "name": "Vue JS",
+        "level": "90%"
+      },
+      {
+        "name": "Java",
+        "level": "70%"
+      },
+      {
+        "name": "Spring boot",
+        "level": "75%"
+      },
+      
+      {
+        "name": "Bootstrap",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Snapchat Clone (React JS)",
+        "category": "",
+        "image": "snapchat.jpg",
+        "url": "https://youtu.be/1kGISk5ft2w"
+      },
+      {
+        "title": "Gmail Clone (React JS)",
+        "category": "",
+        "image": "gmail.jpg",
+        "url": "https://youtu.be/b7nrXjS6Dqs"
+      },
+      {
+        "title": "LinkedIn Clone (React JS)",
+        "category": "",
+        "image": "linkedin.jpg",
+        "url": "https://youtu.be/QaYts9sPmcY"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Farajana has got good technical skills. she is quick to learn new technologies. She has worked in variety of projects and delivered with good quality. Web technolgies is an area where she is really strong. All the best to her journey ahead!!",
+        "user": "Vishal Pachorkar",
+        "LinkedIn":"https://www.linkedin.com/in/pachorkar/",
+        "description" :"Software Services Manager at DSGS"
+      },
+      {
+        "text": "Farajana is a team player who contributed to the success of our product and helped other team members at several occasions.Conscientious of completing her missions with quality, it was good to have her with us.",
+        "user": "Kaïs CHERIF",
+        "LinkedIn":"https://www.linkedin.com/in/ka%C3%AFs-cherif/",
+        "description" :"Senior Product Manager - Demo Center at Dassault Systèmes"
+      }
+    ]
+  }
+}
